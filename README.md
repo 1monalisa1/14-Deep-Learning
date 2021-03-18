@@ -57,4 +57,4 @@
 ![Closing-17](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-Closing-Price/14-Closing-17.png)
 ![Closing-18](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-Closing-Price/14-Closing-18.png)
 
-
+![Mona-Deep-Learning](https://github.com/1monalisa1/14-Deep-Learning/blob/833a2e9355ea3326ef7687e656cde3928f8fa129/Images-FNG/14-Mona-Deep-Learning.png)
