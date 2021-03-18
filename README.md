@@ -14,9 +14,10 @@
 
 
 #### Which window size works best for the model?
-*Window 1* 
+*Window Size = 1*
+
 ----------------------------
-## Data Archive
+# Data Archive
 ----------------------------
 ## Fear & Greed (FNG)
 ![FNG-01](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-FNG/14-FNG-01.png)
