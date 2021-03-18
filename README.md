@@ -12,6 +12,7 @@
 
 #### Which model tracks the actual values better over time?
 
+![FNG-06](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-FNG/14-FNG-06.png)
 
 #### Which window size works best for the model?
 *Window Size = 1*
