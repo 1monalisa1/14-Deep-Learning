@@ -7,10 +7,9 @@
 
 
 #### Which model has a lower loss?
+![Closing-01](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-Closing-Price/14-Closing-01.png)
 ![FNG-01](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-FNG/14-FNG-01.png)
 
-![Closing-01](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-Closing-Price/14-Closing-01.png)
- 
 #### Which model tracks the actual values better over time?
 
 
@@ -19,7 +18,7 @@
 ----------------------------
 ## Data Archive
 ----------------------------
-### Fear & Greed (FNG)
+## Fear & Greed (FNG)
 ![FNG-01](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-FNG/14-FNG-01.png)
 ![FNG-02](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-FNG/14-FNG-02.png)
 ![FNG-03](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-FNG/14-FNG-03.png)
@@ -31,7 +30,7 @@
 ![FNG-09](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-FNG/14-FNG-09.png)
 ![FNG-10](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-FNG/14-FNG-10.png)
 ----------------------------
-### Closing Prices
+## Closing Prices
 ![Closing-01](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-Closing-Price/14-Closing-01.png)
 ![Closing-02](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-Closing-Price/14-Closing-02.png)
 ![Closing-03](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-Closing-Price/14-Closing-03.png)
