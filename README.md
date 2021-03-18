@@ -11,7 +11,7 @@
 ![FNG-01](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-FNG/14-FNG-01.png)
 
 #### Which model tracks the actual values better over time?
-
+![Closing-04](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-Closing-Price/14-Closing-04.png)
 ![FNG-06](https://github.com/1monalisa1/14-Deep-Learning/blob/05ad35680b69530815d7cef297af5be2ee30bc63/Images-FNG/14-FNG-06.png)
 
 #### Which window size works best for the model?
