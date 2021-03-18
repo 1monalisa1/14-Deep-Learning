@@ -7,28 +7,20 @@
 
 
 #### Which model has a lower loss?
-* Closing Price Data
-* number_units = 30
-  * Equal to the size of the time window
-* dropout_fraction = 0.20 
-  * Each epoch randomly dropped 20% of the units
-* epochs = 60
-* batch size = 5
-* *Loss = .00496*
+* Closing Price Model
 
+  
+* FNG Model
+ 
 Which model tracks the actual values better over time?
 
 
 Which window size works best for the model?
 
+## Data Archive
+
 ### Closing Prices
 ![Closing-E10BS1](https://github.com/1monalisa1/14-Deep-Learning/blob/23e89e53b0294335eec15f667fa21b0a00a0de7c/Images/14-Closing-E10BS1.png)
-![Closing-E10BS5](https://github.com/1monalisa1/14-Deep-Learning/blob/23e89e53b0294335eec15f667fa21b0a00a0de7c/Images/14-Closing-E10BS5.png)
-![Closing-E20BS1](https://github.com/1monalisa1/14-Deep-Learning/blob/23e89e53b0294335eec15f667fa21b0a00a0de7c/Images/14-Closing-E20BS1.png)
-![Closing-E20BS5](https://github.com/1monalisa1/14-Deep-Learning/blob/23e89e53b0294335eec15f667fa21b0a00a0de7c/Images/14-Closing-E20BS5.png)
-![Closing-E60BS1](https://github.com/1monalisa1/14-Deep-Learning/blob/23e89e53b0294335eec15f667fa21b0a00a0de7c/Images/14-Closing-E60BS1.png)
-![Closing-E60BS5](https://github.com/1monalisa1/14-Deep-Learning/blob/23e89e53b0294335eec15f667fa21b0a00a0de7c/Images/14-Closing-E60BS5.png)
 
-### Fear & Greed Model (FNG)
+### Fear & Greed (FNG)
 ![FNG-E10BS1](https://github.com/1monalisa1/14-Deep-Learning/blob/8225d19bb73f577583932df94b52b89b308745d8/Images/14-FNG-E10BS1.png)
-![FNG-E60BS1](https://github.com/1monalisa1/14-Deep-Learning/blob/8225d19bb73f577583932df94b52b89b308745d8/Images/14-FNG-E60BS1.png)
