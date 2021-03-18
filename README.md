@@ -6,8 +6,19 @@
 ## LSTM Stock Predictor
 
 
-Which model has a lower loss?
+#### Which model has a lower loss?
+* Closing Price Data
+* number_units = 30
+  * Equal to the size of the time window
+* dropout_fraction = 0.20 
+  * Each epoch randomly dropped 20% of the units
+* epochs = 60
+* batch size = 5
+* *Loss = .00496*
+
 Which model tracks the actual values better over time?
+
+
 Which window size works best for the model?
 
 ### Closing Prices
