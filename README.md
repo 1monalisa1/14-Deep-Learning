@@ -17,6 +17,11 @@
 ### *Which window size works best for the model?*
 *Window Size = 1*
 
+### *Best for Overall Apples-to-Apples Calibration*
+* *Window Size = 1*
+* *Epochs = 60*
+* *Batch Size = 4 or 10*
+
 ----------------------------
 # Data Archive
 ----------------------------
